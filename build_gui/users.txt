@@ -1,0 +1,8 @@
+test@test.com,test,test123,male
+momenmotaz88@gmail.com,momenmotaz,123456,Male
+helpbot@facebook.com,helpbot,botpass123,bot
+newsbot@facebook.com,newsbot,botpass123,bot
+weatherbot@facebook.com,weatherbot,botpass123,bot
+ahmed@test.com,ahmed,pass123,male
+mohamed@test.com,mohamed,pass456,male
+sara@test.com,sara,pass789,female

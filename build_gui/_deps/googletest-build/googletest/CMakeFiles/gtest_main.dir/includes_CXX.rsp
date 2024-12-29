@@ -1,0 +1,1 @@
+-I"D:/momen fci 3/OOP/OOP mayar/include" -I"D:/momen fci 3/OOP/OOP mayar/gui" -I"D:/Msys2/mingw64/include/wx-3.0" -I"D:/Msys2/mingw64/lib/wx/include/msw-unicode-3.0" -isystem "D:/momen fci 3/OOP/OOP mayar/build_gui/_deps/googletest-src/googletest/include" -isystem "D:/momen fci 3/OOP/OOP mayar/build_gui/_deps/googletest-src/googletest"

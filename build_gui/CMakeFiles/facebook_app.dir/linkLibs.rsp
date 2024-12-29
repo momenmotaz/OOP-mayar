@@ -1,0 +1,1 @@
+ "D:/Msys2/mingw64/lib/libwx_mswu_core-3.0.dll.a" "D:/Msys2/mingw64/lib/libwx_baseu-3.0.dll.a" "D:/Msys2/mingw64/lib/libwx_mswu_richtext-3.0.dll.a" "D:/Msys2/mingw64/lib/libwx_mswu_adv-3.0.dll.a" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

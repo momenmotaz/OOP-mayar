@@ -1,0 +1,2 @@
+Bot_Alice|bot1@example.com|bot123|female
+Bot_Bob|bot2@example.com|bot123|male

@@ -1,0 +1,5 @@
+john@example.com,john,password123,male,1990-01-01
+sarah@example.com,sarah,password123,female,1992-05-15
+mike@example.com,mike,password123,male,1988-12-30
+momen@gmail.com,momen,123456,Male,11/11/2005
+momen1@gmail.com,momen1,123654,Male,12/11/2006

@@ -1,0 +1,3 @@
+"D:\momen fci 3\Cmake\bin\cmake.exe" -E rm -f CMakeFiles\facebook_app.dir/objects.a
+D:\Msys2\mingw64\bin\ar.exe qc CMakeFiles\facebook_app.dir/objects.a @CMakeFiles\facebook_app.dir\objects1.rsp
+D:\Msys2\mingw64\bin\c++.exe -Wl,--whole-archive CMakeFiles\facebook_app.dir/objects.a -Wl,--no-whole-archive -o facebook_app.exe -Wl,--out-implib,libfacebook_app.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\facebook_app.dir\linkLibs.rsp
